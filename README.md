@@ -41,8 +41,6 @@ use futures_stream_select_all::select_all;
 
 # License
 
-`futures-stream-select-all` is primarily distributed under the terms of both the MIT license and
-the Apache License (Version 2.0), with portions covered by various BSD-like
-licenses.
+`futures-stream-select-all` is primarily distributed under the terms of the MIT license.
 
-See LICENSE-APACHE, and LICENSE-MIT for details.
+See LICENSE-MIT for details.
